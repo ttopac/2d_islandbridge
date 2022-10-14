@@ -12,10 +12,10 @@ InnoLAE Conference (2021)
 [https://doi.org/10.12783/shm2019/32426](https://doi.org/10.12783/shm2019/32426)
 
 ## Summary
-Island-bridge layout stretchable devices integrate a multitude of functional electronics in a lightweight, conformable, and small footprint form. These properties make such devices appealing candidates for many wearable, robotics, and diagnostics applications where it is desirable to deploy multiple sensing, transduction, and energy harvesting or storage elements compactly. Our work proposes a systematic approach to designing application-specific devices where target node locations and device dimensions are pre-constrained. The technique is based on a consolidated framework of parametric design, multi-scale finite element simulation, and mixed-integer nonlinear programming optimization.
+Island-bridge layout stretchable devices integrate a multitude of functional electronics in a lightweight, conformable, and small-footprint form. These properties make such devices appealing candidates for many wearables, robotics, and diagnostics applications where it is desirable to compactly deploy multiple sensing, transduction, and energy harvesting or storage elements. Our work proposes a systematic approach to designing application-specific devices where target node locations and device dimensions are pre-constrained. The technique is based on a consolidated framework of parametric design, multiscale finite element simulation, and mixed-integer nonlinear programming optimization.
 
 ## Code
 The code in this repository is not organized for step-by-step use. Instead, please refer to the publications cited above for additional application details. 
 
 ## Contact
-Please reach out to me if you have any comments or suggestions regarding the software in this repo.
+Feel free to reach out if you have any comments or suggestions regarding the software in this repo.
